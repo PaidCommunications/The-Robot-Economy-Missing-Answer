@@ -17,7 +17,7 @@ This repository contains Julian's article "The Robot Economy's Missing Answer" (
 
 ## Article Status
 
-- **Stage:** Revised draft — factual errors corrected, policy section added, sourced with 27 endnotes
+- **Stage:** Revised draft — factual errors corrected, policy section added, sourced with 29 endnotes
 - **Last reviewed:** 2026-02-10
 - **Canonical file:** `The-Robot-Economys-Missing-Answer.md`
 - **Previous review notes:** See `session-notes/2026-02-09-review.md`
@@ -27,7 +27,7 @@ This repository contains Julian's article "The Robot Economy's Missing Answer" (
 - The markdown file `The-Robot-Economys-Missing-Answer.md` is the canonical draft.
 - `article rough` is the original unformatted draft (retained for reference).
 - Session notes go in `session-notes/` with date-prefixed filenames.
-- Factual claims should be sourced. The article includes endnotes [^1]–[^27].
+- Factual claims should be sourced. The article includes endnotes [^1]–[^29].
 - When updating statistics or claims, note the source and date of the data.
 
 ## Key Topics Covered in the Article
