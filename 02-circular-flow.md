@@ -1,0 +1,23 @@
+# The Circular Flow Problem Is Real—But the Accounting Version Is Solvable
+
+The most common version of the concern goes like this: if UBI is funded by taxing companies, and companies get their revenue from people spending UBI, then it's just money going in a circle. Where does the wealth actually come from?
+
+This version of the problem is actually solvable, and the solution is important to understand before we get to the harder issues. Economies have always been circular. You work for a company, they give you money, you give it back to them to buy food. The mechanism is a loop by design. What changes in an automated economy is not the loop itself—it's the reason you receive the money. Today you receive it in exchange for labor. In the future, the proposal is that you receive it in exchange for citizenship.
+
+Moreover, sovereign currency issuers—governments that issue and control their own fiat currency—are not operationally constrained the way households are. The government does not need to collect taxes before it can spend. It credits accounts first and collects taxes later. This is not a heterodox claim; it is a description of how the Federal Reserve and Treasury actually operate. Taxes serve to create demand for the currency, manage inflation, and shape distribution—not to "fund" spending in the way that your checking account funds your grocery bill.
+
+So the accounting version of the problem—where does the initial money come from?—has an answer. The constraint on government spending is not revenue. It is inflation and real resource availability.
+
+But there is a second break in the loop that is less discussed and more immediately dangerous.
+
+### The Private Credit Crash
+
+Consumer demand in the current economy is not powered by wages alone. It runs substantially on bank credit: mortgages, auto loans, credit cards, buy-now-pay-later. In the United States, household debt exceeds $17 trillion. The entire credit system rests on a single assumption: that borrowers have income streams to service their debt.
+
+If employment contracts sharply—not to zero, but enough to spike defaults across consumer lending—the credit channel collapses independently of anything the government does. Banks tighten underwriting. Mortgage approvals dry up. Credit card limits drop. Auto lending freezes. The velocity of money falls. This is not a theoretical sequence; it is a precise description of 2008, except the trigger was housing rather than labor markets. The mechanism is identical: a shock to household income cascading through the credit system into a demand contraction that feeds on itself.
+
+The critical point is that a sovereign currency issuer *can* replace the missing private-credit engine—through direct transfers, payment moratoria, bank backstops, emergency lending facilities, asset purchases. Governments proved this during COVID, when trillions in emergency spending prevented a depression. But "can" is not "will." The state has to decide to act, at speed, at scale, before the contraction becomes self-reinforcing. Every crisis response in modern history has involved months of political negotiation after the damage has begun. The question is not whether the monetary mechanics allow stabilization. They do. The question is whether political institutions can deploy automatic stabilizers—transfers that activate on trigger, not on vote—before a labor-market shock becomes a credit-market death spiral.
+
+This reframes the missing answer. It is not "where does money come from in a post-labor economy?" That question has an answer. It is "how do institutions move fast enough to prevent a credit-demand implosion during the transition?" That question does not have an answer, because no institution currently in operation is designed for it.
+
+But it *could* have an answer. The design pattern exists: automatic stabilizers that activate on trigger, not on vote. Congress pre-authorizes a set of responses—direct transfers to households, temporary payment moratoria on consumer debt, emergency lending facilities for banks facing a default wave—tied to objective indicators: prime-age employment-to-population ratio, consumer delinquency rates, regional robot-deployment density, real wage growth in the bottom two quintiles. When the indicators cross pre-set thresholds, the stabilizers activate without further legislation. This is not speculative institutional design. It is how unemployment insurance already works, extended to the specific shock that automation will deliver. The reason it does not exist is not that it cannot be designed. It is that no one with the power to enact it has yet been forced to.
